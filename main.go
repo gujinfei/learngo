@@ -5,6 +5,7 @@ import (
 	"os"
 )
 
+// THIS IS MY FIRST GO PROGRAM
 func main() {
 	// var s, sep string
 	// for i := 0; i < len(os.Args); i++ {
